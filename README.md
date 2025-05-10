@@ -1,4 +1,5 @@
 Deep Dream with TensorFlow and InceptionV3
+
 This project demonstrates how to use a pre-trained convolutional neural network to generate Deep Dream images. By amplifying the activations of specific intermediate layers in the InceptionV3 model, the script reveals the features the network "sees" and enhances them to produce surreal, dream-like visuals.
 
 Overview
