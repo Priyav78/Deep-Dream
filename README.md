@@ -60,7 +60,7 @@ Before:
 ![Original](https://storage.googleapis.com/download.tensorflow.org/example_images/YellowLabradorLooking_new.jpg)
 
 After Deep Dream:
-![Dreamed](images/dream_result.jpg)
+![Dreamed](https://via.placeholder.com/300?text=Dream+Result)
 
 ---
 
