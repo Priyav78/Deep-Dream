@@ -57,7 +57,7 @@ To use your own image, replace the image URL or load a local file in the `__main
 ## Output Example
 
 Before:
-![Original](images/original.jpg)
+![Original]([images/original.jpg](https://storage.googleapis.com/download.tensorflow.org/example_images/YellowLabradorLooking_new.jpg))
 
 After Deep Dream:
 ![Dreamed](images/dream_result.jpg)
